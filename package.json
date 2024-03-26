@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "Travel": "npx browserstack-node-sdk playwright test --config=./playwright.config.ts",
     "postinstall": "npm update browserstack-node-sdk"
   },
   "keywords": [],

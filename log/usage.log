@@ -1,3 +1,46 @@
 2024-03-26 16:56:34 - [32minfo[39m: Creating configuration file...
 2024-03-26 16:56:34 - [32minfo[39m: Adding new script(s) in package.json...
 2024-03-26 16:56:34 - [32minfo[39m: Setup completed
+2024-03-26 18:21:45 - [32minfo[39m: Reading configs from C:\Users\rober\Desktop\aaaa\BrowserStack\browserstack.yml
+2024-03-26 18:21:45 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2024-03-26 18:21:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-03-26 18:21:49 - [32minfo[39m: Local binary started successfully
+2024-03-26 18:21:50 - [31merror[39m: Error: C:\Users\rober\Desktop\aaaa\BrowserStack\playwright.config.js does not exist
+    at resolveConfigFile (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\playwright\lib\common\configLoader.js:236:52)
+    at Object.rfaOr (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:3213)
+    at getUserPlaywrightConfig (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:3985)
+    at Object.aOuTc (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:17951)
+    at run (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:25988)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async captureError (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1919)
+2024-03-26 18:21:53 - [32minfo[39m: Local binary stopped
+2024-03-26 18:22:45 - [32minfo[39m: Reading configs from C:\Users\rober\Desktop\aaaa\BrowserStack\browserstack.yml
+2024-03-26 18:22:45 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2024-03-26 18:22:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-03-26 18:22:49 - [32minfo[39m: Local binary started successfully
+2024-03-26 18:22:50 - [31merror[39m: Error: C:\Users\rober\Desktop\aaaa\BrowserStack\playwright.config.js does not exist
+    at resolveConfigFile (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\playwright\lib\common\configLoader.js:236:52)
+    at Object.rfaOr (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:3213)
+    at getUserPlaywrightConfig (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:3985)
+    at Object.aOuTc (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:17951)
+    at run (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:25988)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async captureError (C:\Users\rober\Desktop\aaaa\BrowserStack\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1919)
+2024-03-26 18:22:53 - [32minfo[39m: Local binary stopped
+2024-03-26 18:23:07 - [32minfo[39m: Reading configs from C:\Users\rober\Desktop\aaaa\BrowserStack\browserstack.yml
+2024-03-26 18:23:07 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2024-03-26 18:23:07 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-03-26 18:23:11 - [32minfo[39m: Local binary started successfully
+2024-03-26 18:23:12 - [32minfo[39m: Getting your playwright config from C:\Users\rober\Desktop\aaaa\BrowserStack\playwright.config.ts
+2024-03-26 18:23:14 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-03-26 18:24:33 - [32minfo[39m: Visit https://observability.browserstack.com/builds/fdvtf9tsrigg9wkk4qqlcx1ti8gorlqoydarwcbl to view build report, insights, and many more debugging information all at one place!
+
+2024-03-26 18:24:33 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ec0870381c4f8a12de72e954ed04cd98b22c37d4
+2024-03-26 18:24:34 - [32minfo[39m: Deleting C:\Users\rober\Desktop\aaaa\BrowserStack\playwright-browserstack-sdk.config.js
+2024-03-26 18:24:38 - [32minfo[39m: Local binary stopped
+2024-03-26 18:29:47 - [32minfo[39m: Reading configs from C:\Users\rober\Desktop\aaaa\BrowserStack\browserstack.yml
+2024-03-26 18:29:47 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2024-03-26 18:29:47 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-03-26 18:29:51 - [32minfo[39m: Local binary started successfully
+2024-03-26 18:29:52 - [32minfo[39m: Getting your playwright config from C:\Users\rober\Desktop\aaaa\BrowserStack\playwright.config.ts
+2024-03-26 18:29:53 - [32minfo[39m: Adding browserstack configs to setup for Observability

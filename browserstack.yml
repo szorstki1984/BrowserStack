@@ -2,18 +2,9 @@ userName: wojciechpyzel1
 accessKey: mqss9RvmkH7jkNayEr6m
 framework: playwright
 platforms:
-  - os: Windows
-    osVersion: 11
+  - deviceName: Samsung Galaxy S23 Ultra
     browserName: chrome
-    browserVersion: latest
-  - os: OS X
-    osVersion: Ventura
-    browserName: playwright-webkit
-    browserVersion: latest
-  - os: Windows
-    osVersion: 11
-    browserName: playwright-firefox
-    browserVersion: latest
+    osVersion: 13.0
 browserstackLocal: true
 buildName: bstack-demo
 buildIdentifier: ${BUILD_NUMBER}
