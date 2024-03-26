@@ -7,7 +7,7 @@ import PageThree from './Pages/PageThree';
 import datajason from './TestPlans/demo.json'
 
 
-test.describe("Testy Travel", function()
+test.describe("AAA", function()
 {
     for(const data of datajason.przypadki)
     {
