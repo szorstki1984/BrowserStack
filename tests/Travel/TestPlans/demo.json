@@ -1,0 +1,19 @@
+{
+    "env": "ST1",
+    "channel": "NULL",
+    "przypadki":[
+        {
+            "id": "",
+            "cookiebot":"",
+            "kodRabatowy":"",
+            "kartaMilesAndMore":"",
+            "geozona":"",
+            "silos":"",
+            "personal":"",
+            "name":"",
+            "surname":"",
+            "platnosc":""
+        }
+    ]
+
+}
