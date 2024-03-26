@@ -1,2 +1,13 @@
 "" 
 
+Tue Mar 26 2024 18:46:15:778 GMT+0100 (Środkowoeuropejski czas stand.) -- Binary semantic version is v8.9.2
+Tue Mar 26 2024 18:46:15:778 GMT+0100 (Środkowoeuropejski czas stand.) -- Setting output as extra verbose with request parsing
+Tue Mar 26 2024 18:46:17:28 GMT+0100 (Środkowoeuropejski czas stand.) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Tue Mar 26 2024 18:46:17:106 GMT+0100 (Środkowoeuropejski czas stand.) -- Connecting to BrowserStack using WebSocket protocol...
+Tue Mar 26 2024 18:46:17:106 GMT+0100 (Środkowoeuropejski czas stand.) -- Platform supports WebSocket connections.
+
+Tue Mar 26 2024 18:46:17:217 GMT+0100 (Środkowoeuropejski czas stand.) -- Press Ctrl-C to exit
+
+
+Tue Mar 26 2024 18:46:18:330 GMT+0100 (Środkowoeuropejski czas stand.) -- Starting configuration console on http://localhost:45454
