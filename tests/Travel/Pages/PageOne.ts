@@ -7,14 +7,14 @@ export default class PageOne
         this.page = page;
     }
 
-    cookieAkcept
+    // cookieAkcept
 
-    swiatButton
-    europaButton
-    inPolandYes
-    inPolandNo
+    // swiatButton
+    // europaButton
+    // inPolandYes
+    // inPolandNo
 
-    dateStartPicker
+    // dateStartPicker
 
 
 

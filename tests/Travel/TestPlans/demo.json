@@ -1,9 +1,9 @@
 {
-    "env": "ST1",
+    "env": "PROD",
     "channel": "NULL",
     "przypadki":[
         {
-            "id": "",
+            "id": "1",
             "cookiebot":"",
             "kodRabatowy":"",
             "kartaMilesAndMore":"",

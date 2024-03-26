@@ -10,9 +10,9 @@ export default class Config
     public async GetTestEnviromentBaseUrl(TestEnviroment: string){
         switch(TestEnviroment){
             case "PROD":
-                return "https://www.uniqa.pl/kalkulator/ubezpieczenie-podrozne/destinations"
+                return "https://www.uniqa.pl/" //https://www.uniqa.pl/kalkulator/ubezpieczenie-podrozne/destinations
         }
-
+        
     }
 
 
