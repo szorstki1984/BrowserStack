@@ -24,8 +24,15 @@ test.describe("Testy Travel", function()
                 test('Travel', async ({ page }) => 
                 {
                     const pageOne = new PageOne(page);
+                    const pageTwo = new PageTwo(page);
 
                     await pageOne.cookieBot();
+                    await pageOne.mainPageButtons();
+                    //await this.page.waitForTimeout(500);
+                    
+                    await pageTwo.produktSwitch(data.produkt);
+                    await pageTwo.produktsList();
+                    
 
 
 

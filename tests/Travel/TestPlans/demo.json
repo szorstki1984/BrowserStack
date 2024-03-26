@@ -1,18 +1,11 @@
 {
-    "env": "PROD",
-    "channel": "NULL",
+    "env": "PROD",    
     "przypadki":[
         {
             "id": "1",
-            "cookiebot":"",
-            "kodRabatowy":"",
-            "kartaMilesAndMore":"",
-            "geozona":"",
-            "silos":"",
-            "personal":"",
-            "name":"",
-            "surname":"",
-            "platnosc":""
+            "produkt": "TRAVEL"
+            
+            
         }
     ]
 
