@@ -13,25 +13,25 @@ test.describe("Testy Travel", function()
     {
         test.describe(`Wariant ${data.id}`, function()
         {
-            test.beforeEach(async ({ page }, testInfo) => {
+            test.beforeEach(async ({ page }, testInfo) => 
+            {
                 const config = new Config(page);
                 let env = await config.GetTestEnviromentBaseUrl(datajason.env);
                 await page.goto('' + env)
-                });
-            
+            });
+
             
                 test('Travel', async ({ page }) => 
                 {
                     const pageOne = new PageOne(page);
-                
+
+                    await pageOne.cookieBot();
 
 
 
 
 
-
-                });   
-            
+                });             
         });
     }
 });
