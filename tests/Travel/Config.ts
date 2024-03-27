@@ -11,13 +11,6 @@ export default class Config
         switch(TestEnviroment){
             case "PROD":
                 return "https://www.uniqa.pl/" //https://www.uniqa.pl/kalkulator/ubezpieczenie-podrozne/destinations
-        }
-        
+        }        
     }
-
-
-
-
-
-
 }

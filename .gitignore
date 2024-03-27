@@ -4,3 +4,6 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 local.log
+playwright-browserstack-sdk.config.temp.json
+playwright-browserstack-sdk.config.js
+playwright-browserstack-sdk.config.temp.json
