@@ -9,6 +9,6 @@ browserstackLocal: true
 buildName: Demo Build
 buildIdentifier: ${BUILD_NUMBER}
 projectName: POC Integracja Playwright
-testObservability: true
+testObservability: false
 debug: true
 consoleLogs: info
