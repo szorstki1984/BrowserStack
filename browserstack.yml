@@ -6,9 +6,9 @@ platforms:
     browserName: chrome
     osVersion: 13.0
 browserstackLocal: true
-buildName: bstack-demo
+buildName: Demo Build
 buildIdentifier: ${BUILD_NUMBER}
-projectName: BrowserStack Sample
+projectName: POC Integracja Playwright
 testObservability: true
 debug: true
 consoleLogs: info

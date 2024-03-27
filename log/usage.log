@@ -53,3 +53,9 @@
 2024-03-26 18:46:17 - [32minfo[39m: Local binary started successfully
 2024-03-26 18:46:18 - [32minfo[39m: Getting your playwright config from C:\Users\rober\Desktop\aaaa\BrowserStack\playwright.config.ts
 2024-03-26 18:46:19 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2024-03-27 08:45:34 - [32minfo[39m: Reading configs from C:\Users\rober\Desktop\aaaa\BrowserStack\browserstack.yml
+2024-03-27 08:45:34 - [32minfo[39m: parallelsPerPlatform was not defined and has been set to 1 (Default)
+2024-03-27 08:45:34 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-03-27 08:45:39 - [32minfo[39m: Local binary started successfully
+2024-03-27 08:45:40 - [32minfo[39m: Getting your playwright config from C:\Users\rober\Desktop\aaaa\BrowserStack\playwright.config.ts
+2024-03-27 08:45:41 - [32minfo[39m: Adding browserstack configs to setup for Observability
